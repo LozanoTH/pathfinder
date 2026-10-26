@@ -1,3 +1,6 @@
+[![Licencia](https://img.shields.io/github/license/LozanoTH/pathfinder)](LICENSE)
+[![Lenguaje](https://img.shields.io/github/languages/top/LozanoTH/pathfinder)](https://github.com/LozanoTH/pathfinder)
+
 # Pathfinder
 
 > Geometry Dash physics simulator and automatic macro generator (Geode mod)
